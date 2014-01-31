@@ -30,10 +30,22 @@ Limit Switches:
 
 
 
+Jaguar Numbering:
 
+Drive        Front	
+	+-------------+
+     2  |             |	5
+	|             |
+	|             |
+	|             |
+	|             |
+	|             |
+     3  |             |	4
+	+-------------+
 
-
-
+	Winch Motor:	6
+	AAM: 		7
+	
 
 
 The following are Ascii-art Images of the controller labeled with the buttons we use. The controller is a Logitech f310.
