@@ -131,7 +131,8 @@ DirectoryIndex index.htm
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Launch.vi" Type="VI" URL="../900/Drive/Launch.vi"/>
 		<Item Name="Launchcontrol.ctl" Type="VI" URL="../Launchcontrol.ctl"/>
-		<Item Name="Global.vi" Type="VI" URL="../../TrackingDistanceCode/2014DualCanDrive/Global.vi"/>
+		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
+		<Item Name="LaunchBall.vi" Type="VI" URL="../LaunchBall.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
