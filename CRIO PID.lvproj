@@ -133,6 +133,7 @@ DirectoryIndex index.htm
 		<Item Name="Launchcontrol.ctl" Type="VI" URL="../Launchcontrol.ctl"/>
 		<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
 		<Item Name="LaunchBall.vi" Type="VI" URL="../LaunchBall.vi"/>
+		<Item Name="PullBack.vi" Type="VI" URL="../PullBack.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>
